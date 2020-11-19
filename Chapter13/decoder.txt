@@ -1,0 +1,2 @@
+Help can also be shown automatically after writing a left parenthesis next to an object.
+You can activate this behavior in word.
